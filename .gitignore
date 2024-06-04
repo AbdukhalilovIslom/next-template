@@ -34,3 +34,5 @@ server.js
 
 # Sentry Auth Token
 .sentryclirc
+
+.DS_Store
